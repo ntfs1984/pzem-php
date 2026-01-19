@@ -10,7 +10,7 @@ To install php-dio, you can use: `pecl install dio`
 That's all. Enjoy.
 
 ```php
-./pzem.php
+./main.php
 Array
 (
     [voltage] => 229
